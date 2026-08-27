@@ -1,0 +1,6 @@
+- [x] Strings kaynaklarını ekle (`movie_detail_trailer_error`)
+    - [x] `feature/movies/src/main/res/values/strings.xml`
+    - [x] `feature/movies/src/main/res/values-tr/strings.xml`
+- [x] `MovieDetailScreen.kt` dosyasında fragman hata görünümü geri çekildi (Kullanıcı isteğiyle afişe dönme mantığı korundu)
+- [x] `YouTubePlayer.kt` dosyasını kütüphane ile güncelle (Yükleme sorununu çözmek için)
+- [x] Değişiklikleri doğrula

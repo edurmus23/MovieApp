@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_ai_chat_desc">AI Sohbet</string>
+    <string name="movie_auth_error_favorite">Lütfen favorilere eklemek için giriş yapın veya kaydolun.</string>
+    <string name="movie_auth_error_list">Lütfen listelere eklemek için giriş yapın veya kaydolun.</string>
+    <string name="movie_banner_title">GÜNÜN FİLMİ</string>
+    <string name="movie_detail_add_to_list_desc">Listeye Ekle</string>
+    <string name="movie_detail_add_to_list_title">Listeye Ekle</string>
+    <string name="movie_detail_app_rating">MovieApp Puanı: </string>
+    <string name="movie_detail_back_desc">Geri</string>
+    <string name="movie_detail_favorite_desc">Favori</string>
+    <string name="movie_detail_no_lists_error">Henüz bir listeniz yok. Favoriler sayfasından oluşturabilirsiniz.</string>
+    <string name="movie_detail_runtime_hours_only_unit">%dsa</string>
+    <string name="movie_detail_runtime_hours_unit">%1$dsa %2$ddk</string>
+    <string name="movie_detail_runtime_minutes_only_unit">%ddk</string>
+    <string name="movie_detail_share_desc">Filmi Paylaş</string>
+    <string name="movie_detail_similar_movies">Benzer Filmler</string>
+    <string name="movie_detail_summary_label">Özet</string>
+    <string name="movie_detail_trailer_error">Fragman yüklenemedi</string>
+    <string name="movie_detail_watch_providers_buy">Satın Al</string>
+    <string name="movie_detail_watch_providers_rent">Kirala</string>
+    <string name="movie_detail_watch_providers_stream">Abone Ol</string>
+    <string name="movie_detail_watch_providers_title">Nereden İzlenir</string>
+    <string name="movie_detail_watch_providers_unavailable">Bu film için izleme platformu bilgisi henüz mevcut değil.</string>
+    <string name="movie_detail_watched_desc">İzlendi Olarak İşaretle</string>
+    <string name="movie_detail_your_rating">Senin Puanın</string>
+    <string name="movie_error_prefix">Hata: </string>
+    <string name="movie_error_unknown">Beklenmedik bir hata oluştu</string>
+    <string name="movie_retry_button">Tekrar Dene</string>
+    <string name="movie_section_favorites">Favorilerim</string>
+    <string name="movie_section_popular">Popüler Filmler</string>
+    <string name="movie_section_top_rated">En Çok Oy Alan Filmler</string>
+    <string name="movie_section_upcoming">Yaklaşan Filmler</string>
+</resources>

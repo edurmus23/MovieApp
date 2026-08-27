@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314561227131",
+    "firebase_url": "https://movieappfire-default-rtdb.firebaseio.com",
+    "project_id": "movieappfire",
+    "storage_bucket": "movieappfire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314561227131:android:af8014ec9aa5fe5406b5de",
+        "android_client_info": {
+          "package_name": "com.example.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314561227131-fcsmrchs8ntlgismma5qluojkc0u8l8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.movieapp",
+            "certificate_hash": "7c7aa702f270cb58831c4acc92067a1f7e348908"
+          }
+        },
+        {
+          "client_id": "314561227131-9pq30cp69mnde1kv3q8qukm0d5hb7uee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbEroaOpfWFSIuC-rvPukUHb4CHXOaZyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314561227131-9pq30cp69mnde1kv3q8qukm0d5hb7uee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

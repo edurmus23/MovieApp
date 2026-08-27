@@ -1,0 +1,2 @@
+com.example.movieapp.feature.rating
+string rating_tap_to_rate

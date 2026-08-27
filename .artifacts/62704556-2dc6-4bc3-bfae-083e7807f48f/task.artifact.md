@@ -1,0 +1,13 @@
+- [x] **Step 1: Session Management**
+    - [x] Add DataStore dependencies
+    - [x] Create `SessionManager.kt`
+    - [x] Update `AuthRepositoryImpl.kt` to save user session on login
+- [x] **Step 2: Firebase Integration**
+    - [x] Add Firebase dependencies & Google Services plugin
+    - [x] Configure `AppModule.kt` for Firebase instances
+    - [x] Implement `FirebaseFavoriteRepository.kt`
+- [ ] **Step 3: UI & Verification**
+    - [ ] Update `FavoritesViewModel.kt` to use Firebase logic
+    - [ ] Create `CreateListDialog.kt`
+    - [ ] Implement Custom Lists in Firestore
+    - [ ] Verify persistence across sessions

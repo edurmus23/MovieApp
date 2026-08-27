@@ -1,0 +1,3 @@
+- [/] Stabilize `YouTubePlayer.kt` with state-based loading
+- [ ] Clean up `MovieDetailScreen.kt` and remove redundant `key`
+- [ ] Verify build and functionality

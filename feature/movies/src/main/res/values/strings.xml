@@ -1,0 +1,33 @@
+<resources>
+    <string name="movie_banner_title">MOVIE OF THE DAY</string>
+    <string name="movie_error_prefix">Error: </string>
+    <string name="movie_retry_button">Retry</string>
+    <string name="movie_detail_summary_label">Overview</string>
+    <string name="movie_detail_runtime_hours_unit">%1$dh %2$dm</string>
+    <string name="movie_detail_runtime_hours_only_unit">%dh</string>
+    <string name="movie_detail_runtime_minutes_only_unit">%dm</string>
+    <string name="movie_detail_add_to_list_desc">Add to List</string>
+    <string name="movie_detail_back_desc">Back</string>
+    <string name="movie_detail_favorite_desc">Favorite</string>
+    <string name="movie_section_popular">Popular Movies</string>
+    <string name="movie_section_top_rated">Top Rated Movies</string>
+    <string name="movie_section_favorites">My Favorites</string>
+    <string name="movie_section_upcoming">Upcoming Movies</string>
+    <string name="movie_detail_add_to_list_title">Add to List</string>
+    <string name="movie_detail_no_lists_error">You don\'t have any lists yet. You can create one from the Favorites page.</string>
+    <string name="movie_auth_error_list">Please log in or register to add movies to lists.</string>
+    <string name="movie_auth_error_favorite">Please log in or register to add to favorites.</string>
+    <string name="movie_detail_trailer_error">Trailer could not be loaded</string>
+    <string name="movie_error_unknown">An unexpected error occurred</string>
+    <string name="movie_ai_chat_desc">AI Chat</string>
+    <string name="movie_detail_your_rating">Your Rating</string>
+    <string name="movie_detail_app_rating">MovieApp Rating: </string>
+    <string name="movie_detail_share_desc">Share Movie</string>
+    <string name="movie_detail_watched_desc">Mark as Watched</string>
+    <string name="movie_detail_similar_movies">Similar Movies</string>
+    <string name="movie_detail_watch_providers_title">Where to Watch</string>
+    <string name="movie_detail_watch_providers_stream">Stream</string>
+    <string name="movie_detail_watch_providers_rent">Rent</string>
+    <string name="movie_detail_watch_providers_buy">Buy</string>
+    <string name="movie_detail_watch_providers_unavailable">Streaming availability is not available for this title yet.</string>
+</resources>

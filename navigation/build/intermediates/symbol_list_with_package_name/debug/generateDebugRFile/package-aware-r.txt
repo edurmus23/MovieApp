@@ -1,0 +1,5 @@
+com.example.movieapp.navigation
+string nav_favorites
+string nav_home
+string nav_profile
+string nav_search

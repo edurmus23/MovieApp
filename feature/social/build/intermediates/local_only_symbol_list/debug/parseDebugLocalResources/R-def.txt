@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+string social_back_desc
+string social_find_friends
+string social_search_placeholder
+string social_user_not_found

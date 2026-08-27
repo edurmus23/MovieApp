@@ -1,0 +1,9 @@
+com.example.movieapp.message-pngs-0 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/build/generated/res/pngs/debug
+com.example.movieapp.message-updated_navigation_xml-1 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/build/generated/updated_navigation_xml/debug
+com.example.movieapp.message-mergeDebugResources-2 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.movieapp.message-mergeDebugResources-3 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.movieapp.message-debug-4 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.movieapp.message-debug-5 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.movieapp.message-debug-6 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/src/debug/res
+com.example.movieapp.message-main-7 /Users/elif.durmus/AndroidStudioProjects/MovieApp/app/message/src/main/res
+gradleHome-0 /Users/elif.durmus/.gradle

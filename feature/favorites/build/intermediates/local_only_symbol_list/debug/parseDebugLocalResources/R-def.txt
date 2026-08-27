@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+string favorites_back_desc
+string favorites_cancel_button
+string favorites_create_button
+string favorites_create_list_desc
+string favorites_list_empty
+string favorites_list_name_placeholder
+string favorites_lists_tab_title
+string favorites_new_list_title
+string favorites_no_favorites_desc
+string favorites_no_favorites_title
+string favorites_no_lists_desc
+string favorites_no_lists_title
+string favorites_tab_title

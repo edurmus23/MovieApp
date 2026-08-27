@@ -1,0 +1,11 @@
+<resources>
+    <string name="search_placeholder">Search for movies, genres or actors...</string>
+    <string name="search_recent_title">Recent Searches</string>
+    <string name="search_clear_all">Clear History</string>
+    <string name="search_trending_title">Trending Searches</string>
+    <string name="search_not_found">No movies found.</string>
+    <string name="search_top_rated_title">Top Rated Movies</string>
+    <string name="search_back_desc">Back</string>
+    <string name="search_clear_desc">Clear</string>
+    <string name="search_delete_desc">Delete</string>
+</resources>

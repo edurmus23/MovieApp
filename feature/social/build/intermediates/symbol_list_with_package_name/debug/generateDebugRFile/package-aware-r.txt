@@ -1,0 +1,5 @@
+com.example.movieapp.feature.social
+string social_back_desc
+string social_find_friends
+string social_search_placeholder
+string social_user_not_found

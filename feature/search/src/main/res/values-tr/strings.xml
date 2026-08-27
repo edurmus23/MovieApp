@@ -1,0 +1,11 @@
+<resources>
+    <string name="search_placeholder">Film, tür veya oyuncu ara&#8230;</string>
+    <string name="search_recent_title">Son Aramalar</string>
+    <string name="search_clear_all">Aramayı Temizle</string>
+    <string name="search_trending_title">Trend Aramalar</string>
+    <string name="search_not_found">Film bulunamadı.</string>
+    <string name="search_top_rated_title">En Çok Oylanan Filmler</string>
+    <string name="search_back_desc">Geri</string>
+    <string name="search_clear_desc">Temizle</string>
+    <string name="search_delete_desc">Sil</string>
+</resources>

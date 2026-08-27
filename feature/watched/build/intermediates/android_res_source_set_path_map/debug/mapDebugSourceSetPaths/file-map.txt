@@ -1,0 +1,9 @@
+com.example.movieapp.feature.watched-pngs-0 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/build/generated/res/pngs/debug
+com.example.movieapp.feature.watched-updated_navigation_xml-1 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/build/generated/updated_navigation_xml/debug
+com.example.movieapp.feature.watched-mergeDebugResources-2 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.movieapp.feature.watched-mergeDebugResources-3 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.movieapp.feature.watched-debug-4 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.movieapp.feature.watched-debug-5 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/build/intermediates/packaged_res/debug/packageDebugResources
+com.example.movieapp.feature.watched-debug-6 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/src/debug/res
+com.example.movieapp.feature.watched-main-7 /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/watched/src/main/res
+gradleHome-0 /Users/elif.durmus/.gradle

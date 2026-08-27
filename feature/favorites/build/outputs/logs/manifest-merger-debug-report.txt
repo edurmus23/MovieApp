@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml:2:13-83
+INJECTED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml:2:13-83
+	package
+		INJECTED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml
+	xmlns:android
+		ADDED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml:2:23-81
+uses-sdk
+INJECTED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml reason: use-sdk injection requested
+INJECTED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml
+INJECTED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml
+	android:targetSdkVersion
+		INJECTED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml
+	android:minSdkVersion
+		INJECTED from /Users/elif.durmus/AndroidStudioProjects/MovieApp/feature/favorites/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9436719089038322846.xml

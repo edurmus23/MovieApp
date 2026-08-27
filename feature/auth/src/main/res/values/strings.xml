@@ -1,0 +1,30 @@
+<resources>
+    <string name="auth_login_title">Login</string>
+    <string name="auth_login_email_label">Email or Username</string>
+    <string name="auth_login_password_label">Password</string>
+    <string name="auth_login_button">Login</string>
+    <string name="auth_login_no_account">Don\'t have an account?</string>
+    <string name="auth_login_guest_button">Continue as guest</string>
+
+    <string name="auth_register_title">Register</string>
+    <string name="auth_register_name_label">Full Name</string>
+    <string name="auth_register_email_label">Email</string>
+    <string name="auth_register_password_label">Password</string>
+    <string name="auth_register_button">Register</string>
+    <string name="auth_register_already_have_account">Already have an account?</string>
+
+    <string name="auth_email_label">Email</string>
+    <string name="auth_password_label">Password</string>
+    <string name="auth_password_show">SHOW</string>
+    <string name="auth_password_hide">HIDE</string>
+    <string name="auth_forgot_password">Forgot Password</string>
+    <string name="auth_or_separator">OR</string>
+    <string name="auth_google_login">Google</string>
+
+    <string name="auth_error_password_too_short">Password must be at least 8 characters.</string>
+    <string name="auth_error_password_no_uppercase">Password must contain at least one uppercase letter.</string>
+    <string name="auth_error_password_no_digit">Password must contain at least one digit.</string>
+    <string name="auth_email_username_label">Username</string>
+    <string name="auth_register_confirm_password">Confirm Password</string>
+    <string name="auth_error_passwords_dont_match">Passwords do not match.</string>
+</resources>

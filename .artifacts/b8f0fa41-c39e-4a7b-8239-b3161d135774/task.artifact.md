@@ -1,0 +1,4 @@
+- [ ] Data Layer: `MoviesRepositoryImpl.kt` içinde video ID temizleme (trim)
+- [ ] Presentation Layer: `YouTubePlayer.kt` bileşenini en sağlam yöntemle yeniden yazma
+- [ ] Presentation Layer: `MovieDetailScreen.kt` düzenlemesi (16:9 oran ve yükleme göstergesi)
+- [ ] Verification: Logcat üzerinden kontrol ve manuel test

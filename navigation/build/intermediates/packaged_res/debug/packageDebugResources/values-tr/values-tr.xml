@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_favorites">Favoriler</string>
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_search">Arama</string>
+</resources>

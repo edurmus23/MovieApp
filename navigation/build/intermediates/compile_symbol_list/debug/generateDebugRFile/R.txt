@@ -1,0 +1,4 @@
+int string nav_favorites 0x0
+int string nav_home 0x0
+int string nav_profile 0x0
+int string nav_search 0x0

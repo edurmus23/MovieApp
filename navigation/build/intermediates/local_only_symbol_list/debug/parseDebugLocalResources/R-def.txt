@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+string nav_favorites
+string nav_home
+string nav_profile
+string nav_search

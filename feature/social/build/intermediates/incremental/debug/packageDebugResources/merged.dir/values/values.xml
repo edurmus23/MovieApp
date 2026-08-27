@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="social_back_desc">Back</string>
+    <string name="social_find_friends">Find Friends</string>
+    <string name="social_search_placeholder">Search username or name…</string>
+    <string name="social_user_not_found">User not found.</string>
+</resources>

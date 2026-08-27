@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="shortcut_movies">Filmler</string>
+    <string name="shortcut_search">Film Ara</string>
+    <string name="shortcut_favorites">Favorilerim</string>
+    <string name="shortcut_account">Profilim</string>
+</resources>

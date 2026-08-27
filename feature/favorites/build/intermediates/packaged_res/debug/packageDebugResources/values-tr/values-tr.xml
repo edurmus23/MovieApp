@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="favorites_back_desc">Geri</string>
+    <string name="favorites_cancel_button">İptal</string>
+    <string name="favorites_create_button">Oluştur</string>
+    <string name="favorites_create_list_desc">Liste Oluştur</string>
+    <string name="favorites_list_empty">Bu listede henüz film yok</string>
+    <string name="favorites_list_name_placeholder">Liste adı…</string>
+    <string name="favorites_lists_tab_title">Listelerim</string>
+    <string name="favorites_new_list_title">Yeni Liste Oluştur</string>
+    <string name="favorites_no_favorites_desc">Beğendiğin filmleri favorilerine ekleyerek burada görebilirsin.</string>
+    <string name="favorites_no_favorites_title">Henüz favori film yok</string>
+    <string name="favorites_no_lists_desc">Kendi film koleksiyonlarını oluşturmak için + butonuna bas.</string>
+    <string name="favorites_no_lists_title">Henüz listeniz yok</string>
+    <string name="favorites_tab_title">Favoriler</string>
+</resources>

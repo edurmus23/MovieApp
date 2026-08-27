@@ -1,0 +1,30 @@
+<resources>
+    <string name="auth_login_title">Giriş Yap</string>
+    <string name="auth_login_email_label">E-posta veya Kullanıcı Adı</string>
+    <string name="auth_login_password_label">Şifre</string>
+    <string name="auth_login_button">Giriş Yap</string>
+    <string name="auth_login_no_account">Hesabın yok mu?</string>
+    <string name="auth_login_guest_button">Misafir olarak devam et</string>
+
+    <string name="auth_register_title">Kayıt Ol</string>
+    <string name="auth_register_name_label">Ad Soyad</string>
+    <string name="auth_register_email_label">Email</string>
+    <string name="auth_register_password_label">Şifre</string>
+    <string name="auth_register_button">Kayıt Ol</string>
+    <string name="auth_register_already_have_account">Zaten hesabın var mı?</string>
+
+    <string name="auth_email_label">E-posta</string>
+    <string name="auth_password_label">Şifre</string>
+    <string name="auth_password_show">GÖSTER</string>
+    <string name="auth_password_hide">GİZLE</string>
+    <string name="auth_forgot_password">Şifremi Unuttum</string>
+    <string name="auth_or_separator">VEYA</string>
+    <string name="auth_google_login">Google</string>
+
+    <string name="auth_error_password_too_short">Şifre en az 8 karakter olmalıdır.</string>
+    <string name="auth_error_password_no_uppercase">Şifre en az bir büyük harf içermelidir.</string>
+    <string name="auth_error_password_no_digit">Şifre en az bir rakam içermelidir.</string>
+    <string name="auth_email_username_label">Kullanıcı Adı</string>
+    <string name="auth_register_confirm_password">Şifre Tekrar</string>
+    <string name="auth_error_passwords_dont_match">Şifreler eşleşmiyor.</string>
+</resources>

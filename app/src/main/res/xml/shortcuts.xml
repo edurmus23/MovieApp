@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="movies"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:shortcutShortLabel="@string/shortcut_movies">
+        <intent
+            android:action="com.example.movieapp.ACTION_MOVIES"
+            android:targetPackage="com.example.movieapp"
+            android:targetClass="com.example.movieapp.MainActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="search"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:shortcutShortLabel="@string/shortcut_search">
+        <intent
+            android:action="com.example.movieapp.ACTION_SEARCH"
+            android:targetPackage="com.example.movieapp"
+            android:targetClass="com.example.movieapp.MainActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="favorites"
+        android:enabled="true"
+        android:icon="@drawable/ic_favorite"
+        android:shortcutShortLabel="@string/shortcut_favorites">
+        <intent
+            android:action="com.example.movieapp.ACTION_FAVORITES"
+            android:targetPackage="com.example.movieapp"
+            android:targetClass="com.example.movieapp.MainActivity" />
+    </shortcut>
+    <shortcut
+        android:shortcutId="account"
+        android:enabled="true"
+        android:icon="@drawable/ic_account"
+        android:shortcutShortLabel="@string/shortcut_account">
+        <intent
+            android:action="com.example.movieapp.ACTION_ACCOUNT"
+            android:targetPackage="com.example.movieapp"
+            android:targetClass="com.example.movieapp.MainActivity" />
+    </shortcut>
+</shortcuts>

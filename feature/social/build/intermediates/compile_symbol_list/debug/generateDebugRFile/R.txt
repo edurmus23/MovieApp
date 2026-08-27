@@ -1,0 +1,4 @@
+int string social_back_desc 0x0
+int string social_find_friends 0x0
+int string social_search_placeholder 0x0
+int string social_user_not_found 0x0

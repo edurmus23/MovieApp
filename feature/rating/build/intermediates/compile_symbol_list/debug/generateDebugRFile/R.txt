@@ -1,0 +1,1 @@
+int string rating_tap_to_rate 0x0

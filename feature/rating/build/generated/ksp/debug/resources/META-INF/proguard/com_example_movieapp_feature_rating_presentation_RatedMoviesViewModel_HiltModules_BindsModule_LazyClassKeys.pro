@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.movieapp.feature.rating.presentation.RatedMoviesViewModel

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="shortcut_movies">Movies</string>
+    <string name="shortcut_search">Search Movies</string>
+    <string name="shortcut_favorites">My Favorites</string>
+    <string name="shortcut_account">My Profile</string>
+</resources>
