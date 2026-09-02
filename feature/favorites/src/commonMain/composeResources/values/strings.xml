@@ -1,0 +1,15 @@
+<resources>
+    <string name="favorites_tab_title">Favorites</string>
+    <string name="favorites_lists_tab_title">My Lists</string>
+    <string name="favorites_create_list_desc">Create List</string>
+    <string name="favorites_new_list_title">Create New List</string>
+    <string name="favorites_list_name_placeholder">List name&#8230;</string>
+    <string name="favorites_create_button">Create</string>
+    <string name="favorites_cancel_button">Cancel</string>
+    <string name="favorites_no_lists_title">You have no lists yet</string>
+    <string name="favorites_no_lists_desc">Press + to create your own movie collections.</string>
+    <string name="favorites_no_favorites_title">No favorite movies yet</string>
+    <string name="favorites_no_favorites_desc">You can see the movies you like by adding them to your favorites.</string>
+    <string name="favorites_list_empty">No movies in this list yet</string>
+    <string name="favorites_back_desc">Back</string>
+</resources>

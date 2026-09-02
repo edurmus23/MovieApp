@@ -1,0 +1,13 @@
+<resources>
+    <string name="ai_chat_bot_name">MovieBot</string>
+    <string name="ai_chat_status_online">Online</string>
+    <string name="ai_chat_back_desc">Back</string>
+    <string name="ai_chat_settings_desc">Settings</string>
+    <string name="ai_chat_welcome_title">Hello! I\'m your AI movie assistant.</string>
+    <string name="ai_chat_welcome_subtitle">What kind of movies do you like? Or what would you like to watch today? You can ask me!</string>
+    <string name="ai_chat_thinking">Thinking...</string>
+    <string name="ai_chat_input_placeholder">Ask about a movie, get recommendations...</string>
+    <string name="ai_chat_send_desc">Send</string>
+    <string name="ai_chat_unknown_year">Unknown</string>
+    <string name="ai_chat_mock_genres">Action, Adventure</string>
+</resources>

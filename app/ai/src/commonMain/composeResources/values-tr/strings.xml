@@ -1,0 +1,13 @@
+<resources>
+    <string name="ai_chat_bot_name">FilmBot</string>
+    <string name="ai_chat_status_online">Çevrimiçi</string>
+    <string name="ai_chat_back_desc">Geri</string>
+    <string name="ai_chat_settings_desc">Ayarlar</string>
+    <string name="ai_chat_welcome_title">Merhaba! Ben senin AI film asistanınım.</string>
+    <string name="ai_chat_welcome_subtitle">Hangi tür filmleri seversin? Ya da bugün ne izlemek istersin? Sorabilirsin!</string>
+    <string name="ai_chat_thinking">Düşünüyor...</string>
+    <string name="ai_chat_input_placeholder">Film sor, öneri al...</string>
+    <string name="ai_chat_send_desc">Gönder</string>
+    <string name="ai_chat_unknown_year">Bilinmiyor</string>
+    <string name="ai_chat_mock_genres">Aksiyon, Macera</string>
+</resources>

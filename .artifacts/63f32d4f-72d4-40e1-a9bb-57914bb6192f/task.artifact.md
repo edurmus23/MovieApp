@@ -1,0 +1,8 @@
+- [ ] Fix `Preview` imports in KMP commonMain
+    - [ ] [x] `core:ui/SectionHeader.kt`
+    - [ ] [ ] `app:ai/AiChatScreen.kt`
+    - [ ] [ ] `feature:favorites/ListDetailScreen.kt`
+    - [ ] [ ] `feature:social/SocialScreen.kt`
+- [ ] Verify build
+    - [ ] Run `./gradlew :core:ui:compileDebugKotlinAndroid`
+    - [ ] Run `./gradlew assembleDebug`
